@@ -1,4 +1,4 @@
-# React phone app
+# React phone-shop app
 Demo: https://kasmadei-phone-shop.netlify.com
 
 ## Installation
